@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BastMovies", "BastMovies\BastMovies.csproj", "{84BD82BF-F67F-4C8B-886A-88D0525FD61F}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "BastMovisDB", "BastMovisDB\BastMovisDB.sqlproj", "{7A0ECE5C-CACA-4494-8CF2-43708ED83895}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84BD82BF-F67F-4C8B-886A-88D0525FD61F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84BD82BF-F67F-4C8B-886A-88D0525FD61F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84BD82BF-F67F-4C8B-886A-88D0525FD61F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84BD82BF-F67F-4C8B-886A-88D0525FD61F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A0ECE5C-CACA-4494-8CF2-43708ED83895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A0ECE5C-CACA-4494-8CF2-43708ED83895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A0ECE5C-CACA-4494-8CF2-43708ED83895}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7A0ECE5C-CACA-4494-8CF2-43708ED83895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A0ECE5C-CACA-4494-8CF2-43708ED83895}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A0ECE5C-CACA-4494-8CF2-43708ED83895}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A89F86C9-C162-4F74-89F6-465682CC2F0A}
+	EndGlobalSection
+EndGlobal

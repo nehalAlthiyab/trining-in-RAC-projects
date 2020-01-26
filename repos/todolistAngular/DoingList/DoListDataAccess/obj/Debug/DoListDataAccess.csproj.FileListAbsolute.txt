@@ -1,0 +1,12 @@
+C:\Users\nthiyab\Desktop\DoingList\DoListDataAccess\bin\Debug\DoListDataAccess.dll.config
+C:\Users\nthiyab\Desktop\DoingList\DoListDataAccess\bin\Debug\DoListDataAccess.dll
+C:\Users\nthiyab\Desktop\DoingList\DoListDataAccess\bin\Debug\DoListDataAccess.pdb
+C:\Users\nthiyab\Desktop\DoingList\DoListDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\nthiyab\Desktop\DoingList\DoListDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nthiyab\Desktop\DoingList\DoListDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\nthiyab\Desktop\DoingList\DoListDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nthiyab\Desktop\DoingList\DoListDataAccess\obj\Debug\DoListDataAccess.csprojAssemblyReference.cache
+C:\Users\nthiyab\Desktop\DoingList\DoListDataAccess\obj\Debug\DoListDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\nthiyab\Desktop\DoingList\DoListDataAccess\obj\Debug\DoListDataAccess.csproj.CopyComplete
+C:\Users\nthiyab\Desktop\DoingList\DoListDataAccess\obj\Debug\DoListDataAccess.dll
+C:\Users\nthiyab\Desktop\DoingList\DoListDataAccess\obj\Debug\DoListDataAccess.pdb

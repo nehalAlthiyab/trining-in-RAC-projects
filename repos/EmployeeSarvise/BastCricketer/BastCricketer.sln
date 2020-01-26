@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BastCricketer", "BastCricketer\BastCricketer.csproj", "{40D26C13-7CD2-43E1-9BFA-DAEC80441AB5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BastCricketer.Models", "BastCricketer.Models\BastCricketer.Models.csproj", "{2F4E43F3-F85D-486B-9963-09309A4ACF0A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{F26058B3-97F2-4192-B873-D6A9AA699571}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{4EB347FB-CBFB-44B0-A49D-B9D560D3FD8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestCricketers.Core", "BestCricketers.Core\BestCricketers.Core.csproj", "{254CFD40-53AD-477F-8DAB-6F2037F7FD71}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{065E2DF1-0038-456A-A710-A9C597636264}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataBase", "DataBase", "{1C4070AC-FC5A-4A6E-B032-8F6A9F4ED290}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Cricketer", "Cricketer\Cricketer.sqlproj", "{C609CB68-22CE-4DAA-95EA-CEBA04906DFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40D26C13-7CD2-43E1-9BFA-DAEC80441AB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D26C13-7CD2-43E1-9BFA-DAEC80441AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D26C13-7CD2-43E1-9BFA-DAEC80441AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D26C13-7CD2-43E1-9BFA-DAEC80441AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F4E43F3-F85D-486B-9963-09309A4ACF0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F4E43F3-F85D-486B-9963-09309A4ACF0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F4E43F3-F85D-486B-9963-09309A4ACF0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F4E43F3-F85D-486B-9963-09309A4ACF0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{254CFD40-53AD-477F-8DAB-6F2037F7FD71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{254CFD40-53AD-477F-8DAB-6F2037F7FD71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{254CFD40-53AD-477F-8DAB-6F2037F7FD71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{254CFD40-53AD-477F-8DAB-6F2037F7FD71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C609CB68-22CE-4DAA-95EA-CEBA04906DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C609CB68-22CE-4DAA-95EA-CEBA04906DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C609CB68-22CE-4DAA-95EA-CEBA04906DFA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C609CB68-22CE-4DAA-95EA-CEBA04906DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C609CB68-22CE-4DAA-95EA-CEBA04906DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C609CB68-22CE-4DAA-95EA-CEBA04906DFA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{40D26C13-7CD2-43E1-9BFA-DAEC80441AB5} = {065E2DF1-0038-456A-A710-A9C597636264}
+		{2F4E43F3-F85D-486B-9963-09309A4ACF0A} = {F26058B3-97F2-4192-B873-D6A9AA699571}
+		{254CFD40-53AD-477F-8DAB-6F2037F7FD71} = {4EB347FB-CBFB-44B0-A49D-B9D560D3FD8E}
+		{C609CB68-22CE-4DAA-95EA-CEBA04906DFA} = {1C4070AC-FC5A-4A6E-B032-8F6A9F4ED290}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE111D15-192A-4FED-9FA3-7E8013348B12}
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Data.6.0.1304.0\lib\NET45
+	EndGlobalSection
+EndGlobal

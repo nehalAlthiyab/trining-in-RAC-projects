@@ -1,0 +1,10 @@
+C:\Users\nthiyab\source\repos\EmployeeSarvise\EmployeeDB\bin\Debug\EmployeeDB.dacpac
+C:\Users\nthiyab\source\repos\EmployeeSarvise\EmployeeDB\bin\Debug\EmployeeDB.dll
+C:\Users\nthiyab\source\repos\EmployeeSarvise\EmployeeDB\bin\Debug\EmployeeDB.pdb
+C:\Users\nthiyab\source\repos\EmployeeSarvise\EmployeeDB\obj\Debug\Model.xml
+C:\Users\nthiyab\source\repos\EmployeeSarvise\EmployeeDB\obj\Debug\refactor.xml
+C:\Users\nthiyab\source\repos\EmployeeSarvise\EmployeeDB\obj\Debug\postdeploy.sql
+C:\Users\nthiyab\source\repos\EmployeeSarvise\EmployeeDB\obj\Debug\predeploy.sql
+C:\Users\nthiyab\source\repos\EmployeeSarvise\EmployeeDB\obj\Debug\EmployeeDB.dll
+C:\Users\nthiyab\source\repos\EmployeeSarvise\EmployeeDB\obj\Debug\EmployeeDB.pdb
+C:\Users\nthiyab\source\repos\EmployeeSarvise\EmployeeDB\obj\Debug\EmployeeDB.sqlprojAssemblyReference.cache

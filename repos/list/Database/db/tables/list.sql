@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[list]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [Work] NVARCHAR(MAX) NOT NULL
+)

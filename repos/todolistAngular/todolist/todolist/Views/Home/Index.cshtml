@@ -1,0 +1,108 @@
+﻿@model IEnumerable<todolist.Models.addNewTask>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>To do list</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            Task
+        </th>
+        <th>
+            From
+        </th>
+        <th>
+            To
+        </th>
+        <th>
+            state
+        </th>
+        <th>
+            oprations
+        </th>
+
+    </tr>
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Work)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DateFrom)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DateTo)
+        </td>
+        <td>
+            @if (item.Completed.ToString().Equals("1"))
+            {
+                string e = "completed";
+                @e;
+            }
+            else
+            {
+                if (item.DateTo < item.ReturnDate)
+                {
+                    string e = "ended";
+                    @e;
+                }
+                else
+                {
+                    if (item.DateFrom > item.ReturnDate)
+                    {
+                        string e = "not started";
+                        @e;
+                    }
+                    else if (item.DateFrom < item.ReturnDate)
+                    {
+                        string e = "started";
+                        @e;
+                    }
+                }
+
+
+            }
+
+        </td>
+        <td>
+            @if (item.DateTo < item.ReturnDate)
+            {
+                string e = "Edit";
+                @e;
+
+            }
+            else if (item.Completed.ToString().Equals("1"))
+            {
+                string e = "Edit";
+                @e;
+
+            }
+            else
+            {
+                @Html.ActionLink("Edit", "Edit", new { id = item.Id, work = item.Work, from = item.DateFrom, to = item.DateTo })
+            }
+            |
+            @if (item.DateTo < item.ReturnDate)
+            {
+                string e = "Complete";
+                @e;
+
+            }
+            else if (item.Completed.ToString().Equals("1"))
+            {
+                string e = "Completed";
+                @e;
+            }
+            else
+            {
+                @Html.ActionLink("Complete", "Completed", new { id = item.Id })
+            }
+            | @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,4 @@
+C:\Users\nthiyab\source\repos\HttpClient\HttpClient\obj\Debug\netcoreapp2.2\HttpClient.csprojAssemblyReference.cache
+C:\Users\nthiyab\source\repos\HttpClient\HttpClient\obj\Debug\netcoreapp2.2\HttpClient.csproj.CoreCompileInputs.cache
+C:\Users\nthiyab\source\repos\HttpClient\HttpClient\obj\Debug\netcoreapp2.2\HttpClient.AssemblyInfoInputs.cache
+C:\Users\nthiyab\source\repos\HttpClient\HttpClient\obj\Debug\netcoreapp2.2\HttpClient.AssemblyInfo.cs

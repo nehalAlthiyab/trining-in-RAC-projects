@@ -1,0 +1,12 @@
+C:\Users\nthiyab\source\repos\HttpClientDemo\HttpClientDemo\bin\Debug\HttpClientDemo.exe.config
+C:\Users\nthiyab\source\repos\HttpClientDemo\HttpClientDemo\bin\Debug\HttpClientDemo.exe
+C:\Users\nthiyab\source\repos\HttpClientDemo\HttpClientDemo\bin\Debug\HttpClientDemo.pdb
+C:\Users\nthiyab\source\repos\HttpClientDemo\HttpClientDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nthiyab\source\repos\HttpClientDemo\HttpClientDemo\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\nthiyab\source\repos\HttpClientDemo\HttpClientDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nthiyab\source\repos\HttpClientDemo\HttpClientDemo\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\nthiyab\source\repos\HttpClientDemo\HttpClientDemo\obj\Debug\HttpClientDemo.csprojAssemblyReference.cache
+C:\Users\nthiyab\source\repos\HttpClientDemo\HttpClientDemo\obj\Debug\HttpClientDemo.csproj.CoreCompileInputs.cache
+C:\Users\nthiyab\source\repos\HttpClientDemo\HttpClientDemo\obj\Debug\HttpClientDemo.csproj.CopyComplete
+C:\Users\nthiyab\source\repos\HttpClientDemo\HttpClientDemo\obj\Debug\HttpClientDemo.exe
+C:\Users\nthiyab\source\repos\HttpClientDemo\HttpClientDemo\obj\Debug\HttpClientDemo.pdb
